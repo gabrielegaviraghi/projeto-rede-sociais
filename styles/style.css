@@ -34,3 +34,12 @@ section.phone{
     width: 311px;
     background: url(/image/frame-iphone.png) no-repeat;
 }
+
+iframe.screen{
+    position: relative;
+    top: 80px;
+    left: 22.5px;
+    width: 265px;
+    height: 470px;
+}
+
