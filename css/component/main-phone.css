@@ -1,0 +1,10 @@
+section.main-phone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 627px;
+    width: 311px;
+    background: url(/image/frame-iphone.png) no-repeat;
+}
